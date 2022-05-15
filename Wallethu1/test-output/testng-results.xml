@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Wallethu1" duration-ms="65241" started-at="2022-05-15T06:13:56Z" finished-at="2022-05-15T06:15:01Z">
+  <suite name="Wallethu1" duration-ms="65534" started-at="2022-05-15T06:24:48Z" finished-at="2022-05-15T06:25:54Z">
     <groups>
     </groups>
-    <test name="wallethub" duration-ms="65241" started-at="2022-05-15T06:13:56Z" finished-at="2022-05-15T06:15:01Z">
+    <test name="wallethub" duration-ms="65534" started-at="2022-05-15T06:24:48Z" finished-at="2022-05-15T06:25:54Z">
       <class name="com.Wallethu1.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Wallethu1.testCases.TC_LoginTest_001@464bee09]" name="setup" is-config="true" duration-ms="19431" started-at="2022-05-15T06:13:56Z" finished-at="2022-05-15T06:14:16Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Wallethu1.testCases.TC_LoginTest_001@464bee09]" name="setup" is-config="true" duration-ms="18533" started-at="2022-05-15T06:24:49Z" finished-at="2022-05-15T06:25:07Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Wallethu1.testCases.TC_LoginTest_001@464bee09]" name="loginTest" duration-ms="44532" started-at="2022-05-15T06:14:16Z" finished-at="2022-05-15T06:15:00Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Wallethu1.testCases.TC_LoginTest_001@464bee09]" name="loginTest" duration-ms="45758" started-at="2022-05-15T06:25:07Z" finished-at="2022-05-15T06:25:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Wallethu1.testCases.TC_LoginTest_001@464bee09]" name="tearDown" is-config="true" duration-ms="831" started-at="2022-05-15T06:15:00Z" finished-at="2022-05-15T06:15:01Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Wallethu1.testCases.TC_LoginTest_001@464bee09]" name="tearDown" is-config="true" duration-ms="818" started-at="2022-05-15T06:25:53Z" finished-at="2022-05-15T06:25:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
