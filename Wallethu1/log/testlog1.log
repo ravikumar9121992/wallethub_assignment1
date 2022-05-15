@@ -111,3 +111,18 @@
 2022-05-14 11:15:08,924 [main] INFO wallethub - get title sucess (2) Ravi Deo | Facebook
 2022-05-14 11:15:19,256 [main] INFO wallethub - took screenshot
 2022-05-14 11:15:19,265 [main] INFO wallethub - Login test passed
+2022-05-14 13:19:27,313 [main] INFO wallethub - URL is opened
+2022-05-14 13:19:27,335 [main] INFO wallethub - get title sucessFacebook – log in or sign up
+2022-05-14 13:19:27,660 [main] INFO wallethub - Entered username
+2022-05-14 13:19:27,924 [main] INFO wallethub - Entered password
+2022-05-14 13:22:02,423 [main] INFO wallethub - URL is opened
+2022-05-14 13:22:02,445 [main] INFO wallethub - get title sucessFacebook – log in or sign up
+2022-05-14 13:22:02,868 [main] INFO wallethub - Entered username
+2022-05-14 13:22:03,147 [main] INFO wallethub - Entered password
+2022-05-15 11:44:16,155 [main] INFO wallethub - URL is opened
+2022-05-15 11:44:16,178 [main] INFO wallethub - get title sucessFacebook – log in or sign up
+2022-05-15 11:44:16,447 [main] INFO wallethub - Entered username
+2022-05-15 11:44:16,679 [main] INFO wallethub - Entered password
+2022-05-15 11:44:50,280 [main] INFO wallethub - get title sucess (1) Ravi Deo | Facebook
+2022-05-15 11:45:00,662 [main] INFO wallethub - took screenshot
+2022-05-15 11:45:00,672 [main] INFO wallethub - Login test passed
